@@ -1,2 +1,2 @@
 # ReactiveCocoa
-a demo
+a new study demo for ReactiveObjC. 
